@@ -62,6 +62,7 @@ function Result() {
     }
   return (
     <div>
+        <h1>BRN</h1>
         <div>
         <label>telugu</label>
         <input type="number" ref={tRef}
